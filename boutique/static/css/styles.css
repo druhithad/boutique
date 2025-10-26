@@ -1,0 +1,26 @@
+/* General Body Style */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: lightblue;  /* Changed for testing */
+    color: #333;
+}
+
+/* Navbar Test */
+.navbar {
+    background-color: #ff6347;  /* Test with a bright color */
+}
+
+.navbar-brand {
+    color: #fff !important;  /* Ensure navbar brand text is white */
+}
+
+/* Card Test */
+.card {
+    border: 2px solid #000;  /* Just added a border for testing */
+}
+
+/* Test Button Style */
+.btn-success {
+    background-color: green !important;
+    color: white;
+}
